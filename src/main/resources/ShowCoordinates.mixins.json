@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "github.pashamaladec.showcoordinates.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "showcoordinates.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
